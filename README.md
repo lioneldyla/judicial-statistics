@@ -2,7 +2,7 @@
 
 > Data pipelines, analysis tools and methodology for the national Judicial Statistics Yearbooks published by the Ministry of Justice of Côte d'Ivoire.
 
-[![Author](https://img.shields.io/badge/Author-Yoboukoua_DJORO-0077B5?style=flat)](https://www.linkedin.com/in/lioneldyla/)
+[![Author](https://img.shields.io/badge/Author-Yoboukoua_DJORO-0077B5?style=flat)](https://www.linkedin.com/in/dylaprod/)
 [![Domain](https://img.shields.io/badge/Domain-Judicial_Statistics-green?style=flat)]()
 [![Publications](https://img.shields.io/badge/Publications-2019_·_2023-lightgrey?style=flat)]()
 
@@ -113,4 +113,4 @@ These yearbooks serve as the primary data source for:
 ## Author
 
 **Yoboukoua DJORO** — Deputy Director of Studies & Statistics | Head of IT & Statistics Services  
-Ministry of Justice · Cour de Cassation de Côte d'Ivoire | [LinkedIn](https://www.linkedin.com/in/lioneldyla/)
+Ministry of Justice · Cour de Cassation de Côte d'Ivoire | [LinkedIn](https://www.linkedin.com/in/dylaprod/)
